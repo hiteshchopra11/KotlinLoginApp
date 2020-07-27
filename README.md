@@ -7,3 +7,5 @@ It uses implicit intents to redirect to email app and phone dialer.Besides this,
 Retrofit,Glide,RecycleView,Room
 
 
+# Link to the APK
+https://github.com/hiteshchopra11/MvvmKotlin/blob/master/app-release.apk
