@@ -12,7 +12,7 @@ https://github.com/hiteshchopra11/KotlinLoginApp/blob/master/app-release.apk
 
 ## Screenshots added-:
 ### Screenshot 1-:
-![](media./ss1.png)
+![](media./ss1.jpg)
 
 ### Screenshot 2-:
 ![](media./ss2.png)
