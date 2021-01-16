@@ -1,7 +1,7 @@
 # Kotlin Login App
 
 Kotlin login app is a login app based on MVVM archtecture written in Kotlin which uses Room Database for login and registration of users.Apart from this,it has a navigation drawer and viewpager with fragments.
-It uses implicit intents to redirect to email app and phone dialer.Besides this,it also displays API data such as photos,id and title etc in RecycleViewer using ViewHolder.
+It uses implicit intents to redirect to email app and phone dialer.Besides this,it also displays API data such as photos,id and title etc in RecycleViewer using Retrofit Library.
 
 # Libraries used are
 Retrofit,Glide,RecycleView,Room
