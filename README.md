@@ -8,3 +8,20 @@ Retrofit,Glide,RecycleView,Room
 
 # Link to the APK
 https://github.com/hiteshchopra11/KotlinLoginApp/blob/master/app-release.apk
+
+
+## Screenshots added-:
+### Screenshot 1-:
+![](media./ss1.png)
+
+### Screenshot 2-:
+![](media./ss2.png)
+
+### Screenshot 3-:
+![](media./ss3.png)
+
+### Screenshot 4-:
+![](media./ss4.png)
+
+### Screenshot 5-:
+![](media./ss5.png)
